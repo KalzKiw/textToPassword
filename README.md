@@ -34,4 +34,34 @@ Esta herramienta web, hecha con Python y Flask, toma la primera letra de cada pa
 ## Personalización
 Puedes modificar la longitud, reglas o estilo de la contraseña editando `main.py`.
 
+
 ---
+## Ejemplo de uso
+
+![Ejemplo de la aplicación](./screenshot.png)
+
+### Poema de Gloria Fuertes
+
+```text
+Pienso mesa y digo silla,
+Compro pan y me lo dejo,
+Lo que aprendo se me olvida,
+Lo que pasa es que te quiero.
+
+La trilla lo dice todo;
+Y el mendigo en el alero,
+El pez vuela por la sala
+El toro sopla en el ruedo.
+
+Entre Santander y Asturias
+Pasa un río, pasa un ciervo,
+Pasa un rebaño de santas,
+Pasa un peso.
+
+Entre mi sangre y el llanto
+Hay un puente muy pequeño,
+Y por él no pasa nada,
+Lo que pasa es que te quiero.
+```
+
+La contraseña generada para este poema sería, por ejemplo: `PmYdScPyMIDI`
