@@ -2,7 +2,7 @@
 
 Convierte cualquier texto en una contraseña segura y fácil de recordar.
 
-Esta herramienta web, hecha con Python y Flask, toma la primera letra de cada palabra de tu texto (poema, frase, fragmento de libro, etc.) y genera una contraseña corta alternando mayúsculas/minúsculas.
+Esta herramienta web, hecha con Python y Flask, toma la primera letra de cada palabra de tu texto (poema, frase, fragmento de libro, etc.) y genera una contraseña corta alternando mayúsculas/minúsculas. Es un ejercicio para practicar lógica en python y una excusa para usar flask. Es el proyecto más básico posible, siéntete libre de mejorar el html y de mejorar el sistema de generación.
 
 ## ¿Cómo funciona?
 1. Escribe o pega tu texto en la página web.
