@@ -12,7 +12,7 @@ Esta herramienta web, hecha con Python y Flask, toma la primera letra de cada pa
 ## Instalación rápida
 1. Clona el repositorio:
    ```
-   git clone https://github.com/usuario/textToPassword.git
+   git clone https://github.com/KalzKiw/textToPassword.git
    cd textToPassword
    ```
 2. Instala dependencias:
