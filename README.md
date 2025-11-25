@@ -38,7 +38,7 @@ Puedes modificar la longitud, reglas o estilo de la contraseña editando `main.p
 ---
 ## Ejemplo de uso
 
-![Ejemplo de la aplicación](./screenshot.png)
+![Ejemplo de la aplicación](/EjemploGloriaFuertes.jpg)
 
 ### Poema de Gloria Fuertes
 
