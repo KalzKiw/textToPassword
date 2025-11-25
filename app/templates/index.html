@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Generador de Contraseñas</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .container { max-width: 500px; margin: auto; }
+        textarea { width: 100%; height: 100px; }
+        .result { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Generador de Contraseñas</h2>
+        <form method="post">
+            <label for="text">Introduce tu texto:</label><br>
+            <textarea name="text" id="text" required></textarea><br>
+            <button type="submit">Generar contraseña</button>
+        </form>
+        {% if password %}
+        <div class="result">
+            Contraseña generada: <span>{{ password }}</span>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
